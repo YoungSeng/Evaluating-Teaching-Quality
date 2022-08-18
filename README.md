@@ -10,5 +10,4 @@ All relevant datasets and models will be uploaded to: https://github.com/YoungSe
 
 提取码：5nms
 
-引用：
-[1]S. Yang, Y. Dai, S. Li and K. Zhao, "An Automatic Analysis and Evaluation System Used for Teaching Quality in MOOC Environment," 2021 IEEE 1st International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021, pp. 38-41, doi: 10.1109/DTPI52967.2021.9540117.
+> S. Yang, Y. Dai, S. Li and K. Zhao, "An Automatic Analysis and Evaluation System Used for Teaching Quality in MOOC Environment," 2021 IEEE 1st International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021, pp. 38-41, doi: 10.1109/DTPI52967.2021.9540117.
